@@ -19,8 +19,8 @@ from ragas import evaluate
 from datasets import Dataset
 
 # Twilio configuration
-TWILIO_ACCOUNT_SID = 'ACed0a85f9d5cd0349a083f045d61ed30f'
-TWILIO_AUTH_TOKEN = 'd16105ea135f4d1a52fab36826314bba'
+TWILIO_ACCOUNT_SID = 'ACed0a85f9d5cd0349a08xxxxxxx'
+TWILIO_AUTH_TOKEN = 'd16105ea135f4d1a52fab3xxxxxx'
 TWILIO_PHONE_NUMBER = '+15166671807'
 RELATIVE_CONTACTS = {"p1": "+91 9390971479"}
 
